@@ -1,0 +1,124 @@
+* {
+    padding: 0px;
+    margin: px;
+}
+
+body {
+    background-color: rgb(38, 36, 36);
+}
+
+NAV {
+    margin: 0px;
+    padding: 0px;
+    height: 20vh;
+}
+
+
+ul {
+    display: flex;
+    justify-content: end;
+    margin-top: -95px;
+    list-style-type: none;
+}
+
+li {font-style:italic;
+
+    font-size: 22px;
+    margin: 60px;}
+
+.lap {
+    margin: -19% 26%;
+}
+
+.lap img {
+    height: 67vh;
+    width: 29%;
+}
+
+ul li a {
+    text-decoration: none;
+    color: aliceblue
+}
+.logo img{height: 70px;
+
+}
+.button{
+    width: 70px;
+     margin-left:900px;
+     margin-top:120px;
+     border-radius:20px;
+     border:0px;
+     cursor: pointer;
+   
+     
+     
+     
+
+}
+.pg{margin: 200px 0px 10px 700px;
+    color: rgb(80, 86, 37);
+
+}
+.lit{margin: 240px 00px 00px 80px;
+    width: 700px;
+    opacity: 0;
+
+
+}
+
+#head {
+    margin-left: 800px;
+    margin-top:-530px ;
+    color: azure;
+
+}
+#head h1{
+    font-size: 60px;
+
+}
+#head h2{font-size: 50px;
+    margin-left: 70px;
+    margin-top: -40px;
+
+}
+.button span{display: block ;
+    background: rgb(14, 120, 186);
+    height: 26px;
+    width:25px;
+    border-radius: 50%;
+     margin:-1px;
+     transition: 0.7s;
+}
+
+.active{
+
+    background: rgb(7, 142, 210);
+}
+.active span{background: rgb(195, 196, 197);
+    margin-left: 50px; 
+
+}
+.on{
+    opacity: 1;
+}
+.templet{ 
+
+    display:block;
+    font-size: none;
+    background:green;
+    border-radius: 100px;
+   font-size : 30px;
+   padding:11px;
+   padding-right: 108px;
+   margin-right: 50px;
+}
+
+    
+.templet a{text-decoration: none;
+    color: rgb(242, 244, 246);
+}  
+.data{ margin-left: -150px;
+    padding-right:150px ;
+    margin-top:-550px ;
+
+}
